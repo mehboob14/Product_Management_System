@@ -1,1 +1,1 @@
-# Product_Management_System
+# Developed a simple C# console application using an N-tier architecture with separate Data Access, Business Logic, and Presentation layers. Customers can browse and purchase products, while product managers can add, update, delete products, and invite premium customers for discounts.
