@@ -1,0 +1,12 @@
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\bin\Debug\net8.0\DataAcess.deps.json
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\bin\Debug\net8.0\DataAcess.dll
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\bin\Debug\net8.0\DataAcess.pdb
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.csproj.AssemblyReference.cache
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfoInputs.cache
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.AssemblyInfo.cs
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.csproj.CoreCompileInputs.cache
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.dll
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\refint\DataAcess.dll
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\DataAcess.pdb
+C:\Users\acuk.student\Documents\Mehboob Arshad\dot NET\StoreManagementSystem8_5_24\StoreManagementSystem\DataAcess\obj\Debug\net8.0\ref\DataAcess.dll
